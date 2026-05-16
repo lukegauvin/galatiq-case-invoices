@@ -1,0 +1,2 @@
+"""Invoice processing prototype package."""
+
